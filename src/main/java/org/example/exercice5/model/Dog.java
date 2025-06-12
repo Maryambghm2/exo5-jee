@@ -1,4 +1,4 @@
-package org.example.exo5.model;
+package org.example.exercice5.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

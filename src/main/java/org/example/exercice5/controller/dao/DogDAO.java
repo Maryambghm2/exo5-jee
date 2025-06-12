@@ -1,8 +1,8 @@
-package org.example.exo5.controller.dao;
+package org.example.exercice5.controller.dao;
 
 
-import org.example.exo5.model.Dog;
-import org.example.exo5.util.HibernateSession;
+import org.example.exercice5.model.Dog;
+import org.example.exercice5.util.HibernateSession;
 import org.hibernate.query.Query;
 
 import java.util.List;

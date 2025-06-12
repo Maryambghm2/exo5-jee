@@ -1,12 +1,12 @@
-package org.example.exo5.controller;
+package org.example.exercice5.controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.example.exo5.controller.dao.DogDAO;
-import org.example.exo5.model.Dog;
+import org.example.exercice5.controller.dao.DogDAO;
+import org.example.exercice5.model.Dog;
 
 
 import java.io.IOException;

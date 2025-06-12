@@ -1,4 +1,4 @@
-package org.example.exo5;
+package org.example.exercice5;
 
 import java.io.*;
 

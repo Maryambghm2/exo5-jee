@@ -13,7 +13,7 @@
 </head>
 <body>
 <h2>Formulaire ajout Chien</h2>
-<form action="dogs/add" method="post">
+<form action="add" method="post">
     <div>
         <label for="name">Nom :</label>
         <input type="text" name="name" id="name">
