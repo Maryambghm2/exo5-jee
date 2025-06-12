@@ -27,7 +27,6 @@ public class DogServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.setAttribute("dogs", dogs);
 
-
         req.getRequestDispatcher("/WEB-INF/dog/add.jsp").forward(req, resp);
     }
 
